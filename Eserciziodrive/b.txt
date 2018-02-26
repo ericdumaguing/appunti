@@ -1,0 +1,10 @@
+s
+f
+s
+g
+f
+h
+Numero righe lette: 
+x x x x x x x x x x x x  
+Numero caratteri letti: 
+y y y y y y y y y y y y 
